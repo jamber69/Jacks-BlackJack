@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class PlayerOptions {
+public class PlayerOptions {
 }

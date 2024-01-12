@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class CardDeck {
+public class CardDeck {
+    /*Todo
+    1. Skapa 52 kort
+    2.
+     */
 }
